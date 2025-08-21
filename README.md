@@ -1,2 +1,9 @@
-# Python-programming-
-A Python-based project designed for tracking and managing stocks. It allows users to create personal stock lists, fetch real-time news, and view peer stock updates. The code is written in Python for simplicity, readability, and easy customization.
+COMPANY NAME : CODTECH IT SOLUTIONS
+
+NAME: ARYAN SAMEER MORE
+
+INTERN ID:CT08DH2964
+
+DOMAIN: PYTHON PROGAMMING
+
+METOR : NEELA SANTOSH
