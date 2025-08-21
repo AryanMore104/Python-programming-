@@ -1,2 +1,2 @@
 # Python-programming-
-A simple Python-based chatbot that can interact with users through text. Built using natural language processing techniques, it can answer questions, hold basic conversations, and be customized for different use cases such as customer support, education, or personal projects.
+A Python-based project designed for tracking and managing stocks. It allows users to create personal stock lists, fetch real-time news, and view peer stock updates. The code is written in Python for simplicity, readability, and easy customization.
