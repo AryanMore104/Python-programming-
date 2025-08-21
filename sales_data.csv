@@ -1,0 +1,9 @@
+Date,Salesperson,Product,Quantity,Price
+2023-10-01,Alice,Laptop,5,1200
+2023-10-01,Bob,Mouse,10,25
+2023-10-02,Alice,Keyboard,7,75
+2023-10-03,Charlie,Laptop,3,1250
+2023-10-03,Bob,Monitor,5,300
+2023-10-04,Alice,Mouse,12,25
+2023-10-05,Charlie,Keyboard,4,80
+2023-10-05,Bob,Laptop,2,1300
